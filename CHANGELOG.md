@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e74ff00`](https://github.com/stdlib-js/stdlib/commit/e74ff0063ef3875807d2bc722117cbf78340c096) - **docs:** fix grammar in comments _(by Athan Reines)_
 -   [`ed93284`](https://github.com/stdlib-js/stdlib/commit/ed932844bcde2d4e8dfe49010e8ce96381c98fdf) - **feat:** add `napi/argv-strided-float32array2d` _(by Athan Reines)_
 
 </details>
